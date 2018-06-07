@@ -9,7 +9,7 @@ It is created using android studio and the language used is Kotlin.
 
 #### It is live on Amazon App Store : https://www.amazon.com/Metal-Tic-Tac-Toe-Awesome/dp/B079P6PJFV/ref=sr_1_3?s=mobile-apps&ie=UTF8&qid=1528402112&sr=1-3
 
-APK is also along with the files.
+APK is also included along with the files.
 
 ## Screenshot
 ![61q4hybr5pl](https://user-images.githubusercontent.com/15246084/41124078-6fbda86c-6abe-11e8-97cf-e72b2309030d.jpg)
